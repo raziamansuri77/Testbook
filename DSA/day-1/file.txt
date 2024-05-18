@@ -1,0 +1,2 @@
+js is loosely typed langauge and does not offer typed sefty
+ts allows  us to define strict data type  for variable
